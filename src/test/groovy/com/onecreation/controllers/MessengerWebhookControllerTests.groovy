@@ -44,4 +44,9 @@ class MessengerWebhookControllerTests {
                 .andExpect(status().isOk())
                 .andExpect(content().string(containsString(challenge)))
     }
+
+    @Test
+    void doAGoogleSearchWhenWeReceiveARequestToFindALocation(){
+
+    }
 }

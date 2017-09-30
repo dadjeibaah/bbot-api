@@ -1,0 +1,879 @@
+{
+  "html_attributions": [],
+  "next_page_token": "CrQCIwEAABPwacbv0637Fv4KeR1eWJ6vdmF7gHDEmSLa9H9gLk-AJsIKyBmfyswmfRm7dcG_874Ffa0K5MxVa5HGMTHRAsqzlXSwtp4zUN6YLHjKoGh8_-fuit9fmeN9w0KQ3bp7mJ_bUbIske8ASUecYMu6JZq-meaZ4ggKHycOE2jV9MpwEsQhSuldLO167WSKqobzXAeJLRP_P9H5IR2zIkWw9jK3K0WywbOhIHmYact_arwB2gOW4Qrj4vcWdZf0yfsT8ZQeIOTBndg1JvQ8PPtE6fAVIdkj4TmyUFT8FVBv2j_bWvT7c3h789W2YvILGpPQzCzuc8F2ZZ1s-vUoaG5iJPrpt5bsI-sVN4ox_IupkFKbsoSZO6KGFSMmV_Cz0l-39s8DC1jQnuBk41DqQjyI6OISEFFgYBSj_yIi8THX6wJezeMaFGBOyyEBByb_kNCeVBStdQKrRsG6",
+  "results": [
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.7250813,
+          "lng": -122.4625076
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7264332302915,
+            "lng": -122.4610589197085
+          },
+          "southwest": {
+            "lat": 37.7237352697085,
+            "lng": -122.4637568802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "0cedd397b703f81a0bd072312d9e0172741a9a84",
+      "name": "Ingleside Barber Shop",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 3665,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109070571772218701004/photos\">David Okubo</a>"
+          ],
+          "photo_reference": "CmRaAAAAC2aaym7WnlwY-S3xcgcPTCevzoM6go5e1CfHNY-pzf0vGXHdmCoWytimEuBbINsrJs_QQ59BXTpWySuXlxFmXY6Dvxp7pl-XWyA3Ax1DJ-6f4XZ7KsTPcR4YfYW5R1SkEhDjW6otIu8HJgECyMT2ffYXGhR8kHiMpfgim3OUBThzzOE6vh5F9g",
+          "width": 2681
+        }
+      ],
+      "place_id": "ChIJY0uHGMx9j4ARNXk1AxPXCIc",
+      "rating": 4.2,
+      "reference": "CmRSAAAAmr00_P1ifWISWoLa43A58dNpER7o4_zCSUwgguzU4kbeJIffFaqZ7yi45lbbltxMzOqdt9UYQh-ADYFXYqlXbKlLBxrtd6sZ6HTBC1vq_ZHqzrSTuNjHBfat7XEiia0qEhBY-o92CsD29s3evLCi4OPvGhR-szDUxeomePBGQDUtNncpWLkdrQ",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "393 Ashton Avenue, San Francisco"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.731347,
+          "lng": -122.4508374
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7327743802915,
+            "lng": -122.4494898697085
+          },
+          "southwest": {
+            "lat": 37.7300764197085,
+            "lng": -122.4521878302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "f4280b22dc99b13fa70dddfadb03bc083a21dbef",
+      "name": "Heff's Barbershop",
+      "opening_hours": {
+        "open_now": false,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/110125995488216340277/photos\">Alexandro Perez</a>"
+          ],
+          "photo_reference": "CmRaAAAA4ME1DkLnFAGdntRE8EgzpiHgjaIz8B76PVz3BGM8Yxy2giqwORpCSi4txJ1B_rk2aRLXV4JSiG4qBy7psazHbrPUovEjCpTh42uWnnUboBHaApasiQVVy7w5HGMy9T3hEhAV9EWndKW1dZXLhcitHGprGhSzIHPjMfBdWyJfjp0fAM0AUg2z5A",
+          "width": 3024
+        }
+      ],
+      "place_id": "ChIJuREX4NZ9j4ARBRHIZehOQMU",
+      "rating": 4.6,
+      "reference": "CmRSAAAAljywnY6IGG3ikDk5l7TEg5RyKNIEb7kOWhhBNRrMXj6k_Wcd2gv5XPdEzb5vB8Hx_-Cpl1PH0QMMO2RpQB03xfVkpmzRL2czshbIuEBQ1y2-6WzN_MBmWgrbhpCK57WVEhAh_B5IAAmPCNF_fP3KSS8GGhSZ2Fn_gPnS_BnenI5luVFpF-msfg",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "693 Monterey Boulevard, San Francisco"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.72907639999999,
+          "lng": -122.4400956
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7303822802915,
+            "lng": -122.4387036197085
+          },
+          "southwest": {
+            "lat": 37.7276843197085,
+            "lng": -122.4414015802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "066a0fccf671df067d1342612ede62aeff9d9c25",
+      "name": "Fine Line Barbershop",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 3024,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/112793608673327668777/photos\">Jason Armstrong</a>"
+          ],
+          "photo_reference": "CmRaAAAA0uLT0YKV34o5G77lG0JNNRflnu_qT8lQJtsO8wQuy3NUqdU6g3NTl7f9qPwAKozfWOLY4l0F5uNmSbDnAzKB8Q0wSCgGOTFEJzEky57LLAYQXzXX_oU8BS0uR349X5GCEhB6QbJBzm3lggZb5vNDeVNGGhSYPV2f0HV7dQ3hx7rR7qGsmjMbJA",
+          "width": 4032
+        }
+      ],
+      "place_id": "ChIJJ8jaw31-j4ARwSzbWSiUVOw",
+      "rating": 4.6,
+      "reference": "CmRSAAAAPGriVbsubCM83XO5SCj86eoERPZfgqQ7X81bWmocCvcbbo0nTIP3skVEe_E-GRQmqpxBKZZqWJyZOnxBarbLmNCBZ7D3JH5QOV_lwZuYWSs3sUOZvqDnInOZez0RUdd2EhC7ZumIqqq01MQFARbhr-L6GhSXlkerYCIdfsj7fWN43KAM_U8oPw",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1796 San Jose Avenue, San Francisco"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.706944,
+          "lng": -122.457373
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7083879802915,
+            "lng": -122.4560757197085
+          },
+          "southwest": {
+            "lat": 37.7056900197085,
+            "lng": -122.4587736802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "f0d0bd19792f1da427138bb6db03c67de9f27430",
+      "name": "Fine Line Barbershop",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "place_id": "ChIJLwd9SCN8j4ARYu3rhFDi4UA",
+      "rating": 3.7,
+      "reference": "CmRRAAAAhf0bXKfrPhWTgQfana59cAeY1NcNoR3gG4CxSO2FgmDmNgDA1_B67LT204g10EL_y_LC0N_A4TJkUHxCjNyQBSfrq4MNvjDmnRICmBo3EPSN1viZKGqxiP4yiE2KJKk-EhCn66ilcC38hQzoN5NPOWGgGhQXjj23xD0G1yZ27G5ekFaba8npGA",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "6135 Mission Street, Daly City"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.72250870000001,
+          "lng": -122.4367317
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7238130802915,
+            "lng": -122.4352883197085
+          },
+          "southwest": {
+            "lat": 37.7211151197085,
+            "lng": -122.4379862802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "00f1502244149d29fd60c03ce4f8fc2e109661d1",
+      "name": "Executive Barber Shop",
+      "photos": [
+        {
+          "height": 2576,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/113982346921209221246/photos\">Geovany Cerrato</a>"
+          ],
+          "photo_reference": "CmRaAAAApKxiNP5StFqkNIP7Hr8lubbmORDtuEVfb0VgU4foi_Cp1Xzj1i_OeKTNxCz3EOTiB3vDVN9y757Yww31myS1efaP6h-xl2yxgAZr2DfnemMzOKje-uznVT9MxSoqxDaEEhAEghxZj51Mf8OrYUPseH2tGhQ91YHourb0YKyoU-WAwxU1qr7b4w",
+          "width": 1932
+        }
+      ],
+      "place_id": "ChIJX1oqvoV-j4ARUV2f5gamxsY",
+      "rating": 4.8,
+      "reference": "CmRSAAAAUQgKHCttdU7rSR6Z435jf57zNbvXFXmd3JtY7Sn3iQc_F1XSbwZoMIZu0LBT_QI5Yh-g63g9MufSxq5NsV7mTbwHsKQSQIUfPaAekAptjVbOSgb61Sh8r961mCaPH8p3EhB2KF_BVGZhSRsxMEbBlyg4GhSOSb_swhR43MMJUs4llNNsxrTW5A",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "4734 Mission Street, San Francisco"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.71515819999999,
+          "lng": -122.4418528
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7165684302915,
+            "lng": -122.4405607197085
+          },
+          "southwest": {
+            "lat": 37.7138704697085,
+            "lng": -122.4432586802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "ce9e24cb4f89a948b35631298b6f02fcfa18df8c",
+      "name": "Ace of Fades",
+      "place_id": "ChIJH00rps9eMhURPR64LAtUr4I",
+      "rating": 3.6,
+      "reference": "CmRSAAAAkC7mNEhp3rXScxfBslM78nSqO9cEyutBh-arKYUGyM9kSNdeRXOw32bc4S-gKo5lLCaPd2ArtkjORr8hLnhwLjnC0UHPr2O0L5rFXQgonqAchSolufk2T_HSLyvAVSx1EhD3bj-kvebd-0_jeRWn_irHGhQs2HE8byuZfkkkpYFrR9fNN5Sacw",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "5284 Mission Street, San Francisco"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.78026670000001,
+          "lng": -122.4770232
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.78167518029149,
+            "lng": -122.4756784697085
+          },
+          "southwest": {
+            "lat": 37.7789772197085,
+            "lng": -122.4783764302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "a5145839e12cb01073012ddcf598daf23c7a1576",
+      "name": "Rick's Barber Shop",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 4032,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109805982750766557240/photos\">Seth Benkle</a>"
+          ],
+          "photo_reference": "CmRaAAAA5byDaaro0cm-mfepo0brRZWsTbHJ6j-Hx6A1Iw_7sKd1jDy9Jz96FyE4ou4g2i1hD6hc_eEsgh3_TzFWfaOFkgiAE_cifzEYlT_QzLUH-3-uYNZbFQ7gUyidzP5fPdvWEhCn3tPrJ_aBZeA1a_e-p30JGhQ7SSZDv8HdfR0jShcrhtdhfS8I8Q",
+          "width": 2268
+        }
+      ],
+      "place_id": "ChIJb9fEHBGHhYARsJak9_7evws",
+      "price_level": 2,
+      "rating": 4.4,
+      "reference": "CmRRAAAAaeoCzJbS0dyPjoOYbonJHYG_wJkqEi_kPVTeL0cPyefo5MGF3-Vy8DgqgiNguGDoK17vSWuueI_k3PxXFvO1llrDJkbaz8PVUNHFMvy952g6asyyc0wMJs7uuhp0CNnAEhA3MIlvjZt_2nLijvMNdvIzGhT8ZftH62ZjaCo4oOdufQfHxhw6yg",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "5349 Geary Boulevard, San Francisco"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.726553,
+          "lng": -122.433195
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.72794113029149,
+            "lng": -122.4319280697085
+          },
+          "southwest": {
+            "lat": 37.7252431697085,
+            "lng": -122.4346260302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "775fd2048b193757e706c28932d7bb52385387bb",
+      "name": "Razo's Barber Shop",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 1185,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107944618304213149320/photos\">Razo&#39;s Barber Shop</a>"
+          ],
+          "photo_reference": "CmRaAAAA_EV-cscD0xIwQHPnUR1pUZop5y0GtxN3dPRqcnyhbzrMtyyh1iAiwkMT901XMHfQHvVlDQBWJU9fC6k290Fc4HhkJGoi7x2z_2RMZ95O3viFeLIvAC1hOGkPcvNkSdwlEhCpAZpZnZuHZHmCq0aYDa6yGhRXvBPWED17WbvHszixIcluGFnahw",
+          "width": 1186
+        }
+      ],
+      "place_id": "ChIJ_emE5Yh-j4ARCJXmWk_mGPE",
+      "rating": 4.2,
+      "reference": "CmRSAAAAOl6b9dCgW2CCNtXnZvotiqZSRUj-I2ap50YlMVgMkh7iN3SCR8MbZLiPv1DOatgcisX0jq_HzF-EOmoZwPWwbnX9B78lCY7waXquR_ZYnKoC0W42nKNUVgsnKYrdSf6gEhC0nKSfjugeu_aDUAm9Rm-pGhRijEfJIG_eA5Oi3FpoVf2oW4Rf8g",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "4477 Mission Street, San Francisco"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.762094,
+          "lng": -122.4353755
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7634397802915,
+            "lng": -122.4339164697085
+          },
+          "southwest": {
+            "lat": 37.7607418197085,
+            "lng": -122.4366144302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "55de8650e19b32538fe074215e0abf6cace19221",
+      "name": "Louie's Barber Shop",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 1536,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103908209604443920570/photos\">Victor Sarmento</a>"
+          ],
+          "photo_reference": "CmRaAAAAsGIkn3DIiY4-iIc3t7dYq6xs2IyDhUPLz4h-zRGAgo0v04_n5z9QogL3MpNF6xcVySc5vhf_jFoz4G7mHGguvfR3RAG7QKT_QuoyQbuzgSvYX_AjxAJROpV4NeKyysp_EhDO0YhNhZ65PR5c9N2mdesnGhR30C63zGk0JpGLCNnGOVG71Eh0dg",
+          "width": 2048
+        }
+      ],
+      "place_id": "ChIJkctwUxt-j4ARkf1M_FJAuO0",
+      "rating": 4.4,
+      "reference": "CmRSAAAAD8-5hJHr5JVbzmGaJygvaCT-9JfNpCgmJTpAResPivD4H4fSCE_rmNDvxpLFVBPu3uwxgtG6IH-mdlZm9joozzrv2lEBD6jM9WGD7Pax4W8UJ_xVgVtoPVPikNapvWTpEhDUxDjOPKLcrjn9O4j-p6E5GhT2746YFo5ITRav3UqCFk_gnn_UXQ",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "422 Castro Street, San Francisco"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.7729604,
+          "lng": -122.4376558
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.77432093029149,
+            "lng": -122.4362109697085
+          },
+          "southwest": {
+            "lat": 37.7716229697085,
+            "lng": -122.4389089302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "2405e57e6d2c45f8b48fe9130fc89601ed032909",
+      "name": "J.P. Kempt Barber & Social",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 2030,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/115623616059859182708/photos\">Jeff</a>"
+          ],
+          "photo_reference": "CmRaAAAAr0UqbgfLNECWjugbKaU7nuWVzn4TjN3tVEjgQqCYLvDjNHUB_iram8gCqCxYsN8KAAnZj-L87gIfX-MtDD-9OV1JxKaJSRJ-2r8Qcb4NNA4FMUjEObL5feS65yFQ8C5iEhC9RoQ8kTBxlaJfXUdwGBxNGhRSUeLVSr_GWtpRc4jzKYHfS8YjTQ",
+          "width": 2571
+        }
+      ],
+      "place_id": "ChIJg0wlF6-AhYARi-5OhfbVe00",
+      "rating": 4.5,
+      "reference": "CmRRAAAAOm9PMGfRmDPWaedt9GuzD3FlbCKkW2h6hQggJAwiBHr59plZ-xF7bk5Y16TfgaWIA-37s4b2vx19DWkNfU5fw7Tl-p0Rexe3dWD2H9nnvEHVNbdDPKtG5Xr3YKorDrc3EhAGK6muyRhSXtZLAAtz5vhfGhRYlJo9L3I_h2AxwyIY0dAuuQuVuQ",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "351 Divisadero Street, San Francisco"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.766942,
+          "lng": -122.429983
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7682523302915,
+            "lng": -122.4285861197085
+          },
+          "southwest": {
+            "lat": 37.7655543697085,
+            "lng": -122.4312840802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "96fcfdb1eff9ea9ed65cf855f66c32897a851bd9",
+      "name": "Joe's Barbershop",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 292,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106589215543581648025/photos\">Joe&#39;s Barbershop</a>"
+          ],
+          "photo_reference": "CmRaAAAAe3AYZctjIlVnl2LwIv5enRfOU7qHCC4fMCO8UIPtrqY1mESYw-oGY8pMyU2carUxLqUeB1JVIwMEIUxIyfTloWoC46repiVU0mR-D_O6q6cTViMwypghhKsCkLmlj03TEhCS8S8CqUevl8vocl7InLR6GhQLuKuCYuFcWd_0G3YOpYFhcIBgYw",
+          "width": 292
+        }
+      ],
+      "place_id": "ChIJSb6v1h1-j4ARFY6KW25n7xA",
+      "price_level": 2,
+      "rating": 4.5,
+      "reference": "CmRRAAAAj4moNsZsPrz3zA783tMuKMLpIJcsrKI8MSC0egW4fw4s1QmbgP-MIhb0KshG5QLnSJ7Wt2iGTqqC9RhxdKODM0YxK_uJNhoIHMgdQYWPR9FoGQa7wm0gX0hyx4K6jrJMEhDR90pRZ03lEJ_ZRiCOry83GhSszuQEVT6ZgnCq2mrQJSYzk3_mQQ",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "2150 Market Street, San Francisco"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.7552116,
+          "lng": -122.419437
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.75665643029149,
+            "lng": -122.4180973697085
+          },
+          "southwest": {
+            "lat": 37.75395846970849,
+            "lng": -122.4207953302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "38b4a8963531711eeb538b6005541f9deb5258e0",
+      "name": "Willy's Barber Shop",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 4160,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/107734829674705633215/photos\">F L</a>"
+          ],
+          "photo_reference": "CmRaAAAAeUfQFnCnh3ieaY2yCtJ4p1wXX08HiMR1qGORW0mbskO2uFYzGxc43vK2YpHZIuCA90TBOPDzly3XDevhf57fUmeC9SJ1HQ9lypYM04zjVbk1wL4wI5A31rq1pPTai5MWEhCxS3SFiXi3Dr2Yee2TFpTJGhTIUTGePPoxSWy4kxujMGMQDxRa_w",
+          "width": 3120
+        }
+      ],
+      "place_id": "ChIJ0es3Jz9-j4AR6vu3bWikt9Q",
+      "rating": 4.1,
+      "reference": "CmRSAAAATR345Q6caQ-FqMDpp5X8HPWcLK1PlBwnBsZ5wRSCgQY2-3YhTiqNum3dh9sBRffF3n_rgEe32cwX5gCHVVvOT6de635JoO9cRPZXGK1x-Ar3qIvNHuY8OB82ZpXqaf0hEhCir4_ZzDUn311l0UE9fEyOGhR7GPAMlrret-8FgjDjFZ6TNTLcoQ",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "3227 22nd Street, San Francisco"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.69069899999999,
+          "lng": -122.4711972
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.69204883029149,
+            "lng": -122.4697534697085
+          },
+          "southwest": {
+            "lat": 37.6893508697085,
+            "lng": -122.4724514302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "f5f5129bae98a5b770969a455172443f913ffc85",
+      "name": "Fresh Cuts Barbershop",
+      "place_id": "ChIJ5fbxUxJ8j4ARAJnzufCWMpE",
+      "rating": 3.4,
+      "reference": "CmRSAAAABHO9GwtggXktiSm_TZCqo_nawjExGXvfxiX4hbp5rFG6vcPPcAL8bNxkMPteFGJEw9vSAii5FdD1bvNDuvnSosXCB5EnBtixR1USECTUupiLNp7ygp7SOqxuOneYMvGZEhBrPNIuTevuFrit7kqvxbetGhRP9LseYVYLURqgMTWbvI7hbJyhMw",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "2750 Junipero Serra Boulevard, Daly City"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.7618203,
+          "lng": -122.421946
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7631779802915,
+            "lng": -122.4204297197085
+          },
+          "southwest": {
+            "lat": 37.7604800197085,
+            "lng": -122.4231276802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "16c1441178efb1026793c79935084edaf21c1b3c",
+      "name": "Fellow Barber",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 2448,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/103543429544714290825/photos\">Jake Allen</a>"
+          ],
+          "photo_reference": "CmRaAAAArPAmzKr8tdCwQnUTm9CazNYY8HkCPHxipYoy2akJ3LAcFGYIJ7wKzsa-dFqvC91zF6UJgsjoMP4TyGiTVQVXCc6qo08wfqH2NVeCoYqwo6kKyMc2dXL34ai7EI0vxX5tEhCh7QNXVN1E9otw9DAw8W70GhSBxUX363sb3jTdDffDxW4FFyd7EA",
+          "width": 3264
+        }
+      ],
+      "place_id": "ChIJp4Ky0iJ-j4AR6KRVkXTLOMg",
+      "rating": 4,
+      "reference": "CmRSAAAAq-64Gu9FIp7pwJf38jQH_Xd12UiLmvkq_hZ_ONXbFfVtPc3vwc06d9W0-54BuMAbWBz-mqwhdSRYLzKYNCyUxOLWLUQA_hpDrjbUJyCwTCqp43rR5es6Zrk8vrMLhc6FEhCfjwnAyf1_TOcxBeeLfCcBGhTkN7FYscU6-9jcWV3aKOXWJS9S1Q",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "health",
+        "store",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "696 Valencia Street, San Francisco"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.76768500000001,
+          "lng": -122.42169
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7690188802915,
+            "lng": -122.4205836197085
+          },
+          "southwest": {
+            "lat": 37.7663209197085,
+            "lng": -122.4232815802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "b29f5c20c3ba1f6dae49042a98330841cdf61c01",
+      "name": "People's Barber & Shop",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 3036,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/106940451574897927130/photos\">Charley Galdamez</a>"
+          ],
+          "photo_reference": "CmRaAAAAZsITsZdPOz6qVsjFFSHKUKYq-bwZ8FNRFiyeKloT6bGKJ_RU1zRS0S4sdoNOsrx8V2PYDBHs1AQpeh7-_ZJOZYiJ4yIe333YRMHXcS68P5VfqXoVb84yTfFgbOSIKb5nEhBSvEnCCyWRoSwmdaH4EHGXGhQsBKsuue3mFB7yJ6X-m0H98FqYbQ",
+          "width": 4048
+        }
+      ],
+      "place_id": "ChIJ82rgmCF-j4ARezxy80UctOk",
+      "rating": 4.2,
+      "reference": "CmRSAAAA7VMHE6Gj51h-DHNRvHceYi4YaRdWtYZL5TNE6iRHFvg3jBZQvXAD7yI9clxoy58cCrScLb4ME-clphFl-HjA1qrAARo53OE1lozXY4ZN9U2kAAL4ravoLUWxuuHdcxSyEhCwYKd_X-153t9EGA64GKmVGhTtbLEx7cfDUIFClcO4X1tCV0fY7g",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "321 Valencia Street, San Francisco"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.7528872,
+          "lng": -122.4061037
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7543039302915,
+            "lng": -122.4047625697085
+          },
+          "southwest": {
+            "lat": 37.7516059697085,
+            "lng": -122.4074605302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "c46cbd418d85c295873210c98a66d906d844c42f",
+      "name": "The Shop Barbershop",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 750,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/102929250229487380294/photos\">The Shop Barbershop</a>"
+          ],
+          "photo_reference": "CmRaAAAAzanKQ8p59qnZ_nFzoCUiq-_5YcgON9UBnY3IiuyCulKE1I058txvm7-OPnLJ82yW1kqM_ciKwnxgH4OSzlUds80LJ7wMtUg56KU3XkFXJBwpUxhnDqYE-esyHFtLFDFeEhAyUiMSBdpqqVKONJQPTpgUGhT8CvH-fZsUFjqQf6020BV41gAsOQ",
+          "width": 750
+        }
+      ],
+      "place_id": "ChIJVfPR80t-j4ARmPmmyPq6dIA",
+      "rating": 4.6,
+      "reference": "CmRSAAAAuZp1Y0Yx7NF-kjN61NTtNzot5yWtEkhSCP_RRWoqqw-2rygdwtBKBRD8ie_XIjqRcLH3tO5jUtKNe-g-3r7w4qWxMhvx9mpIHSDcYokNdfiPZbCZu5JSejFejTN-_4ymEhAjjNPbLquHwbME2wL_ssKJGhRKUul2wbFi2k6AywupWqdS-Iec9Q",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "2639 24th Street, San Francisco"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.7885628,
+          "lng": -122.4204096
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7899191802915,
+            "lng": -122.4190033197085
+          },
+          "southwest": {
+            "lat": 37.7872212197085,
+            "lng": -122.4217012802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "4c299ab1e54c5e9c27b7217deb20b1b5f8155109",
+      "name": "Peoples Barber",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 3264,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/114813504318465238530/photos\">Jason Laveglia</a>"
+          ],
+          "photo_reference": "CmRaAAAAaf0E4Qv7hAtIa_OgtsOoyp7_cHhEcmE-I70Y81D7wuybsckoYkLHZo-Vs8RlXYbmBAn7z-xKgerjRSs1aUfS2rpkul3GbtgM3tholVN67o_DSUB6jMRzBGNuQKgapf_1EhB7uABGr5fTi69FSnYI0ObAGhRQqOT2yRgkLD8uW_t_QzEoCL-22A",
+          "width": 2448
+        }
+      ],
+      "place_id": "ChIJWWW795SAhYARcAzYKPY2E8c",
+      "rating": 4.2,
+      "reference": "CmRSAAAA-16ma7bpiR4wACwsCs5jD09q9EjEMIE0rxU6jslxECe3QsTgXNPJw8KKCP7-rcavUM7SpAXk6ZAHE_Mgh-DAYkYEdswZJpPZHDFjrHXUjyzxzdTwDb-5nhCRt2gF8N10EhDEZMkwrqp4yWggawQXVmB3GhRNYF0qROBg7k1p3O1wYHrKvGrtfA",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1259 Polk St, San Francisco"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.7897254,
+          "lng": -122.4209337
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7910024302915,
+            "lng": -122.4195686197085
+          },
+          "southwest": {
+            "lat": 37.7883044697085,
+            "lng": -122.4222665802915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "f306ce215806c02bfac59f53d8ee967dcc030d9c",
+      "name": "1512 Barber Shop",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "place_id": "ChIJG3ZJ3pSAhYAR8QxZvxCZqXA",
+      "rating": 4.9,
+      "reference": "CmRRAAAA9c6kHS9DOe7lIW_tlEwIzWhJfUHVnT1KuiwMw8GVCSn9gWjJTB0-cMLLsUZWyjkUyzKvo42xOmCyMRLnXxJtCMdYUJ4Q8xqkm_OFJ7wXUFvY4Exiph9fmLA313VwyM-VEhBIJwauJ1Es9TNXWwvRI7G4GhSR4t1s7npK7dHKQrHGZ9rcSjWrYA",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "1512 Pine Street, San Francisco"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.78448689999999,
+          "lng": -122.4125887
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7858274302915,
+            "lng": -122.4113087697085
+          },
+          "southwest": {
+            "lat": 37.7831294697085,
+            "lng": -122.4140067302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "b6447cb227275c2c43c2d6aa09d32ca0804098da",
+      "name": "The Em's Barber Shop",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 694,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/105544728016840430168/photos\">The Em&#39;s Barber Shop</a>"
+          ],
+          "photo_reference": "CmRaAAAAbsPlUyutVh3RWOQzWYAO2_iZ6TrsbLSbeVf_ECggZmg2qUx0C2YlknKVjyVy-SlrDKX5DpB60Tf8lweVpKjg1I7_pT8e286gS1-m-lcrlJ3rSebC6pWwmDz7QU7eROTSEhD1qOaB0s4IAiH6b7OeuN9dGhRbcHIYqYE0VwUtw1i3Gzso3NovzA",
+          "width": 695
+        }
+      ],
+      "place_id": "ChIJM_QnHpCAhYARe8xV_1JIfOE",
+      "rating": 4.1,
+      "reference": "CmRSAAAAauHN-DO06r974RzN1GbRJsIX9GU9u7gRdKXivij3iN_FN39wA4-pqNeiyksr9Wws-exMfXzM6rWE9qIpjciGZQp8mCS98-Hb5w8U9HpB6SNvuk-e7JsqawLZ3Bkf5mxLEhAMihy3V90zRSoZTlOr_DbMGhRq_-JNY38pmMm7o-hFADZt7Xr3Yw",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "beauty_salon",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "342 Jones Street, San Francisco"
+    },
+    {
+      "geometry": {
+        "location": {
+          "lat": 37.7824441,
+          "lng": -122.409292
+        },
+        "viewport": {
+          "northeast": {
+            "lat": 37.7839195802915,
+            "lng": -122.4081676697085
+          },
+          "southwest": {
+            "lat": 37.7812216197085,
+            "lng": -122.4108656302915
+          }
+        }
+      },
+      "icon": "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+      "id": "2a0f0f8f71501d957e697bbc99917b0b2971bb12",
+      "name": "Fellow Barber - Market St",
+      "opening_hours": {
+        "open_now": true,
+        "weekday_text": []
+      },
+      "photos": [
+        {
+          "height": 626,
+          "html_attributions": [
+            "<a href=\"https://maps.google.com/maps/contrib/109025361554819895857/photos\">Fellow Barber - Market St</a>"
+          ],
+          "photo_reference": "CmRaAAAAxj6teQ7FlBn_U6v-v1Dl3xLGnne5eiVCuK_9uicPtMabYwOr3Z3EC_RKQSYA23hzHlM8ACpBBIgjLji9LUDFh4xxvVvntPNmKKEaLX8Xe-bqG3OgmK8iFlr2Qsyr42z9EhBBMROE_SgeugR4guvGyiizGhS4LkOQpslACjE5mlNUT9HImkA_8w",
+          "width": 626
+        }
+      ],
+      "place_id": "ChIJTVkYrYWAhYAR-DTu5bmsIaE",
+      "rating": 4.4,
+      "reference": "CmRSAAAAcgu9DZqZDnBf04nleLWOlIHpE9f-dcr79VKfaBpf2MOY6jF3lz3fXFbMwD1SKFrkmsT717xrU8FzQ_mFsMfo2G4GciALAS0YJFWI6JU3cgXVoHQVgeQ-G2yRDhOiU2rtEhBYJ-lDYaE3SW6ZrPnz-bDUGhRMBBU4Ko-Qi5w6n5zMOK2aclchzg",
+      "scope": "GOOGLE",
+      "types": [
+        "hair_care",
+        "health",
+        "point_of_interest",
+        "establishment"
+      ],
+      "vicinity": "973 Market Street, San Francisco"
+    }
+  ],
+  "status": "OK"
+}
