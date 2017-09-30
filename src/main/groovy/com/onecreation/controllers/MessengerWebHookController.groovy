@@ -33,7 +33,7 @@ class MessengerWebHookController {
     ResponseEntity<List<Location>> webhook(@RequestBody Page pages) {
         log.info("Incoming message: ${pages}")
         //PlacesResponse response = googleSearchAPI.locations(googleApiKey, "-33.8670522,151.1957362", "500", "Urban Barbershops")
-        ResponseEntity.ok()
+        ResponseEntity.ok(Arrays.asList(new Location()))
     }
 
     @GetMapping

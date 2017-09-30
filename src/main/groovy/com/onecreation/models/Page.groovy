@@ -19,4 +19,13 @@ class Page {
     void setEntries(List<Entry> entries) {
         this.entry = entries
     }
+
+
+    @Override
+    public String toString() {
+        return "Page{" +
+                "object='" + object + '\'' +
+                ", entry=" + entry +
+                '}';
+    }
 }
