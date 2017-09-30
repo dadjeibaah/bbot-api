@@ -1,6 +1,6 @@
 package com.onecreation.models
 
-class Page {
+class  Page {
     private String object
     private List<Entry> entry
 
@@ -12,11 +12,11 @@ class Page {
         this.object = object
     }
 
-    List<Entry> getEntries() {
+    List<Entry> getEntry() {
         return entry
     }
 
-    void setEntries(List<Entry> entry) {
+    void setEntry(List<Entry> entry) {
         this.entry = entry
     }
 
