@@ -39,7 +39,7 @@ class MessengerWebHookController {
     @GetMapping
     ResponseEntity<String> subscribe(@RequestParam('hub.verify_token') String verifyToken,
                                      @RequestParam('hub.challenge') String challenge,
-                                     @RequestParam('hub.subscribe') String subscribeMode) {
+                                     @RequestParam('hub.mode') String subscribeMode) {
         if (verifyToken == messengerToken) {
             ResponseEntity.ok(challenge)
         } else {
