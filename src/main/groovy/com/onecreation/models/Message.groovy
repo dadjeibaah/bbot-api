@@ -32,11 +32,13 @@ class Message {
         this.nlp = nlp
     }
 
+
     @Override
     public String toString() {
         return "Message{" +
                 "mid='" + mid + '\'' +
                 ", text='" + text + '\'' +
-                '}'
+                ", nlp=" + nlp +
+                '}';
     }
 }
