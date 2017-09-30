@@ -5,7 +5,15 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties
 @JsonIgnoreProperties(ignoreUnknown = true)
 class Messaging {
     private Long timestamp
-    private Map<String, String> message
+    private Message message
+
+    Message getMessage() {
+        return message
+    }
+
+    void setMessage(Message message) {
+        this.message = message
+    }
 
     Long getTimestamp() {
         return timestamp
@@ -15,20 +23,11 @@ class Messaging {
         this.timestamp = timestamp
     }
 
-    Map<String, String> getMessage() {
-        return message
-    }
-
-    void setMessage(Map<String, String> message) {
-        this.message = message
-    }
-
-
     @Override
     public String toString() {
         return "Messaging{" +
                 "timestamp=" + timestamp +
                 ", message=" + message +
-                '}';
+                '}'
     }
 }
