@@ -6,6 +6,7 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties
 class Message {
     private String mid
     private String text
+    private Map<String, Object> nlp
 
     String getMid() {
         return mid
@@ -23,6 +24,13 @@ class Message {
         this.text = text
     }
 
+    Map<String, Object> getNlp() {
+        return nlp
+    }
+
+    void setNlp(Map<String, Object> nlp) {
+        this.nlp = nlp
+    }
 
     @Override
     public String toString() {
