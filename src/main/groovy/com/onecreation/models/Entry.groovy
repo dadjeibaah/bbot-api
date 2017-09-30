@@ -5,7 +5,7 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties
 @JsonIgnoreProperties(ignoreUnknown = true)
 class Entry {
     private String id
-    private long time
+    private Long time
     private List<Messaging> messaging
 
     String getId() {

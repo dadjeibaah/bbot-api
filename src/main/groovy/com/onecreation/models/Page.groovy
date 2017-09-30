@@ -16,16 +16,16 @@ class Page {
         return entry
     }
 
-    void setEntries(List<Entry> entries) {
-        this.entry = entries
+    void setEntries(List<Entry> entry) {
+        this.entry = entry
     }
 
 
     @Override
-    public String toString() {
+    String toString() {
         return "Page{" +
                 "object='" + object + '\'' +
                 ", entry=" + entry +
-                '}';
+                '}'
     }
 }
