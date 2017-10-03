@@ -4,6 +4,7 @@ import com.onecreation.models.Location
 import com.onecreation.models.MessageResponse
 import com.onecreation.models.Messaging
 import com.onecreation.models.Page
+import com.onecreation.models.Recipient
 import com.onecreation.rest.FacebookMessengerAPI
 import com.onecreation.rest.GoogleSearchAPI
 import com.onecreation.services.CustomerService
@@ -50,6 +51,10 @@ class MessengerWebHookController {
         log.info("Incoming message: ${pages}")
         pages.entry.forEach{e ->
             Messaging response = messageProcessorService.generateResponsesForEntries(e)
+            Recipient recipient = new Recipient()
+            String receiver = response.sender.id
+            recipient.setId(receiver)
+            response.setRecipient(recipient)
             facebookMessengerAPI.reply(response, facebookAccessToken)
         }
         //customerService.findByFacebookId()

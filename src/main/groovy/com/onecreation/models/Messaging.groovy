@@ -33,12 +33,21 @@ class Messaging {
         this.sender = sender
     }
 
+    Recipient getRecipient() {
+        return recipient
+    }
+
+    void setRecipient(Recipient recipient) {
+        this.recipient = recipient
+    }
+
     @Override
     public String toString() {
         return "Messaging{" +
                 "timestamp=" + timestamp +
                 ", message=" + message +
-                ", sender="  + sender +
-                '}'
+                ", sender=" + sender +
+                ", recipient=" + recipient +
+                '}';
     }
 }
