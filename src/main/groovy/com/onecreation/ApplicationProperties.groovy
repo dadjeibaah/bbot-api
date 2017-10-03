@@ -7,6 +7,7 @@ import org.springframework.stereotype.Component
 @ConfigurationProperties
 class ApplicationProperties {
     private String messengerToken
+    private String facebookPageAccessToken
 
     String getMessengerToken() {
         return messengerToken
@@ -14,5 +15,13 @@ class ApplicationProperties {
 
     void setMessengerToken(String messengerToken) {
         this.messengerToken = messengerToken
+    }
+
+    String getFacebookPageAccessToken() {
+        return facebookPageAccessToken
+    }
+
+    void setFacebookPageAccessToken(String facebookPageAccessToken) {
+        this.facebookPageAccessToken = facebookPageAccessToken
     }
 }

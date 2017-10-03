@@ -6,6 +6,8 @@ import com.fasterxml.jackson.annotation.JsonIgnoreProperties
 class Messaging {
     private Long timestamp
     private Message message
+    private Sender sender
+    private Recipient recipient
 
     Message getMessage() {
         return message
@@ -23,11 +25,20 @@ class Messaging {
         this.timestamp = timestamp
     }
 
+    Sender getSender() {
+        return sender
+    }
+
+    void setSender(Sender sender) {
+        this.sender = sender
+    }
+
     @Override
     public String toString() {
         return "Messaging{" +
                 "timestamp=" + timestamp +
                 ", message=" + message +
+                ", sender="  + sender +
                 '}'
     }
 }

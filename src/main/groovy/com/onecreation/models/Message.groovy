@@ -1,12 +1,14 @@
 package com.onecreation.models
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties
+import com.fasterxml.jackson.annotation.JsonUnwrapped
 
 @JsonIgnoreProperties(ignoreUnknown = true)
 class Message {
     private String mid
     private String text
     private Map<String, Object> nlp
+
 
     String getMid() {
         return mid
@@ -32,13 +34,12 @@ class Message {
         this.nlp = nlp
     }
 
-
     @Override
     public String toString() {
         return "Message{" +
                 "mid='" + mid + '\'' +
                 ", text='" + text + '\'' +
                 ", nlp=" + nlp +
-                '}';
+                '}'
     }
 }
