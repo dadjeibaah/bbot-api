@@ -53,8 +53,6 @@ class MessengerWebHookController {
             Messaging response = messageProcessorService.generateResponsesForEntries(e)
             facebookMessengerAPI.reply(response, facebookAccessToken)
         }
-        //customerService.findByFacebookId()
-        //PlacesResponse response = googleSearchAPI.locations(googleApiKey, "-33.8670522,151.1957362", "500", "Urban Barbershops")
         ResponseEntity.ok(pages)
     }
 
