@@ -55,6 +55,8 @@ class MessengerWebHookController {
             String receiver = response.sender.id
             recipient.setId(receiver)
             response.setRecipient(recipient)
+            response.message.mid = null
+            response.message.nlp = null
             facebookMessengerAPI.reply(response, facebookAccessToken)
         }
         //customerService.findByFacebookId()
