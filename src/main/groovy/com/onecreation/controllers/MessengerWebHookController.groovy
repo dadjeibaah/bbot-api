@@ -51,12 +51,6 @@ class MessengerWebHookController {
         log.info("Incoming message: ${pages}")
         pages.entry.forEach{e ->
             Messaging response = messageProcessorService.generateResponsesForEntries(e)
-            Recipient recipient = new Recipient()
-            String receiver = response.sender.id
-            recipient.setId(receiver)
-            response.setRecipient(recipient)
-            response.message.mid = null
-            response.message.nlp = null
             facebookMessengerAPI.reply(response, facebookAccessToken)
         }
         //customerService.findByFacebookId()
