@@ -25,7 +25,7 @@ class NLPDeserializer extends StdDeserializer<List<NLPEntity>> {
         List<NLPEntity> nlpEntities = node.get("entities").fields().collect { n ->
             JsonNode innerNode = n.value.first()
             new NLPEntity(
-                    Enum.valueOf(EntityTypeEnum.class, n.key.toUpperCase()),
+                    Enum.valueOf(EntityTypeEnum.class, n.key.toString().toUpperCase()),
                     BigDecimal.valueOf(innerNode.get("confidence").asDouble(0)).setScale(2, RoundingMode.UP),
                     innerNode.get("value").asText("")
             )
