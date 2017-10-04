@@ -20,7 +20,7 @@ class MessageProcessorServiceImpl implements MessageProcessorService {
     MessageProcessorServiceImpl(CustomerService customerService) {
         this.customerService = customerService
         responses = new HashMap<>()
-        responses.put(EntityTypeEnum.Greetings, "Sup' Bro")
+        responses.put(EntityTypeEnum.GREETINGS, "Sup' Bro")
     }
 
     @Override
