@@ -52,7 +52,6 @@ class Messaging {
                 ", message=" + message +
                 ", sender=" + sender +
                 ", recipient=" + recipient +
-                ", nlp=" + nlp
                 '}';
     }
 }
