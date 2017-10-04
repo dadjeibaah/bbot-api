@@ -1,6 +1,7 @@
 package com.onecreation.enums
 
 enum EntityTypeEnum {
-    Location,
-    Greetings
+    LOCATION,
+    GREETINGS,
+    LOCAL_SEARCH_QUERY
 }

@@ -15,4 +15,14 @@ class NLPEntity {
         this.confidence = confidence
         this.value = value
     }
+
+
+    @Override
+    String toString() {
+        return "NLPEntity{" +
+                "type=" + type +
+                ", confidence=" + confidence +
+                ", value='" + value + '\'' +
+                '}';
+    }
 }

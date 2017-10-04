@@ -36,7 +36,7 @@ class Message {
 
 
     @Override
-    public String toString() {
+     String toString() {
         return "Message{" +
                 "mid='" + mid + '\'' +
                 ", text='" + text + '\'' +
