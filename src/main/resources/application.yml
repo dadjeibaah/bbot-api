@@ -1,0 +1,34 @@
+messenger:
+  verify-token: "fresh-fade"
+
+spring:
+  data:
+    neo4j:
+      uri: bolt://localhost
+      username: neo4j
+      password: bbot123
+
+feign:
+  client:
+    config:
+      default:
+        connectTimeout: 30000
+        readTimeout: 30000
+        loggerLevel: basic
+
+
+google:
+  api-key: "AIzaSyCwMpEEPkjoqIBFrDwWQl5DUuQfuR2VPmI"
+  places-url: "https://maps.googleapis.com/maps/api/place/"
+
+facebook:
+  messenger-url: https://graph.facebook.com/v2.6/me
+  page-token: EAAEHUOuaBC4BAC6CURNeZCGMDCOkc7xhiqFZBSjIPmHZBBiyexWXM8I1vBxTbuFZBMxZC8e4IJxqtRttoMdvO6APk4ZA2TFU1WEt7xC7XKdae0JXBZC2pBbIpmZBNC68431y386Isr8dxY4zC4YqfZAnugHMQUd7vJiHe41eBkDfbPgZDZD
+---
+spring:
+    profiles: development
+
+facebook:
+  messenger-url: localhost:3000
+  page-token: pass123
+---

@@ -47,14 +47,14 @@ class MessengerWebHookController {
 
 
     @PostMapping
-    ResponseEntity<Page> webhook(@RequestBody Page pages) {
+    ResponseEntity<Messaging> webhook(@RequestBody Page pages) {
         log.info("Incoming message: ${pages}")
+        Messaging response = null
         pages.entry.forEach{e ->
-            Messaging response = messageProcessorService.generateResponsesForEntries(e)
+            response = messageProcessorService.generateResponsesForEntries(e)
             facebookMessengerAPI.reply(response, facebookAccessToken)
         }
-        //Another change
-        ResponseEntity.ok(pages)
+        ResponseEntity.ok(response)
     }
 
     @GetMapping

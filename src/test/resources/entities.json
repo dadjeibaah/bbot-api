@@ -1,0 +1,18 @@
+{
+  "entities": {
+    "location": [
+      {
+        "suggested": true,
+        "confidence": 0.90644,
+        "value": "Yo",
+        "type": "value"
+      }
+    ],
+    "greetings": [
+      {
+        "confidence": 0.99505686768689,
+        "value": true
+      }
+    ]
+  }
+}

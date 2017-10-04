@@ -1,6 +1,8 @@
 package com.onecreation.models
 
 import com.fasterxml.jackson.annotation.JsonIgnoreProperties
+import com.fasterxml.jackson.annotation.JsonProperty
+import com.fasterxml.jackson.databind.annotation.JsonDeserialize
 
 @JsonIgnoreProperties(ignoreUnknown = true)
 class Messaging {
@@ -8,6 +10,8 @@ class Messaging {
     private Message message
     private Sender sender
     private Recipient recipient
+    @JsonDeserialize(using = NLPDeserializer.class)
+    private List<NLPEntity> nlp
 
     Message getMessage() {
         return message
@@ -41,6 +45,10 @@ class Messaging {
         this.recipient = recipient
     }
 
+    List<NLPEntity> getNlp() {
+        return nlp
+    }
+
     @Override
     public String toString() {
         return "Messaging{" +
@@ -48,6 +56,7 @@ class Messaging {
                 ", message=" + message +
                 ", sender=" + sender +
                 ", recipient=" + recipient +
+                ", nlp=" + nlp
                 '}';
     }
 }
