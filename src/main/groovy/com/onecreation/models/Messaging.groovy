@@ -44,9 +44,6 @@ class Messaging {
         this.recipient = recipient
     }
 
-    List<NLPEntity> getNlp() {
-        return nlp
-    }
 
     @Override
     public String toString() {

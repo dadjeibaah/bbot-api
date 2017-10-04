@@ -26,7 +26,7 @@ class MessageProcessorServiceImpl implements MessageProcessorService {
     @Override
     Messaging generateResponsesForEntries(Entry entry) {
         Messaging response = entry.messaging.first()
-        NLPEntity likelyNLP = response.nlp.max { n -> n.confidence }
+        NLPEntity likelyNLP = response.message.nlp.max { n -> n.confidence }
         Messaging newReply = new Messaging()
         newReply.message = new Message()
         Recipient recipient = new Recipient()
