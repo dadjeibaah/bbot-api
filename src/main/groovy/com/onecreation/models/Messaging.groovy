@@ -10,8 +10,7 @@ class Messaging {
     private Message message
     private Sender sender
     private Recipient recipient
-    @JsonDeserialize(using = NLPDeserializer.class)
-    private List<NLPEntity> nlp
+
 
     Message getMessage() {
         return message
