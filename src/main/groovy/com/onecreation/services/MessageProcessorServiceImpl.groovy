@@ -21,6 +21,8 @@ class MessageProcessorServiceImpl implements MessageProcessorService {
         this.customerService = customerService
         responses = new HashMap<>()
         responses.put(EntityTypeEnum.GREETINGS, "Sup' Bro")
+        responses.put(EntityTypeEnum.LOCAL_SEARCH_QUERY, "Are you trying to search for something near you?")
+        responses.put(EntityTypeEnum.LOCATION, "Are you trying to search for something near you?")
     }
 
     @Override
