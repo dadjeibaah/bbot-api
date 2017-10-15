@@ -3,10 +3,8 @@ messenger:
 
 spring:
   data:
-    neo4j:
-      uri: bolt://localhost
-      username: neo4j
-      password: bbot123
+    mongodb:
+      uri: mongodb://localhost:27017/bbot
 
 feign:
   client:
@@ -16,6 +14,8 @@ feign:
         readTimeout: 30000
         loggerLevel: basic
 
+redis:
+  url: redis://localhost:6379
 
 google:
   api-key: "AIzaSyCwMpEEPkjoqIBFrDwWQl5DUuQfuR2VPmI"
