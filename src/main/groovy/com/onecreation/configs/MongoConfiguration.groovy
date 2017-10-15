@@ -15,6 +15,7 @@ class MongoConfiguration {
     private String mongoUri
 
     @Bean MongoClient mongo() {
+        System.out.println("Current url" + mongoUri)
         MongoClient mongo = new MongoClient(new MongoClientURI(mongoUri))
         return mongo
     }
