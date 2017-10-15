@@ -10,14 +10,13 @@ import java.util.logging.Logger
 
 @Configuration
 class MongoConfiguration {
-    static Logger log = LoggerFactory.getLogger(MongoConfiguration.class)
 
     @Value('${mongodb.uri}')
     private String mongoUri
 
     @Bean MongoClientFactoryBean mongo() {
         MongoClientFactoryBean mongo = new MongoClientFactoryBean()
-        log.info("Current Mongo URI: ${mongoUri}")
+       System.out.println("Current mongodb: ${mongoUri}")
         mongo.setHost(mongoUri)
         return mongo
     }
