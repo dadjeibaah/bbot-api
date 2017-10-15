@@ -1,27 +1,18 @@
 package com.onecreation.models
 
-import org.neo4j.ogm.annotation.GraphId
-import org.neo4j.ogm.annotation.NodeEntity
+import org.springframework.data.annotation.Id
 
-@NodeEntity
+
 class Customer {
-    @GraphId Long id
+    @Id String id
     String name
     String facebookId
+    Preferences preferences
 
-    String getName() {
-        return name
-    }
-
-    void setName(String name) {
+    Customer(String id, String name, String facebookId, Preferences preferences) {
+        this.id = id
         this.name = name
-    }
-
-    String getFacebookId() {
-        return facebookId
-    }
-
-    void setFacebookId(String facebookId) {
         this.facebookId = facebookId
+        this.preferences = preferences
     }
 }

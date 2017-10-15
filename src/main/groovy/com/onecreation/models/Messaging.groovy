@@ -11,6 +11,15 @@ class Messaging {
     private Sender sender
     private Recipient recipient
 
+    Messaging() {}
+
+    Messaging(String receiver, String message) {
+        this.message = new Message()
+        Recipient recipient = new Recipient()
+        recipient.setId(receiver)
+        this.recipient = recipient
+        this.message.text = message
+    }
 
     Message getMessage() {
         return message

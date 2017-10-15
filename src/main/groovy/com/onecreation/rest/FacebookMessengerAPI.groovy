@@ -1,6 +1,6 @@
 package com.onecreation.rest
 
-import com.onecreation.feign.configs.FacebookMessengerAPIConfig
+import com.onecreation.configs.FacebookMessengerAPIConfig
 import com.onecreation.models.Messaging
 import com.onecreation.models.ReplyResponse
 import org.springframework.cloud.netflix.feign.FeignClient

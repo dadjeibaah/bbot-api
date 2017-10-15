@@ -1,4 +1,4 @@
-package com.onecreation.feign.configs
+package com.onecreation.configs
 
 import feign.Logger
 import feign.Request
