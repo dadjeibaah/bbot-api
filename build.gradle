@@ -33,7 +33,7 @@ dependencies {
 	compile('org.springframework.cloud:spring-cloud-starter-feign')
 	compile('org.springframework.boot:spring-boot-starter-data-rest')
 	compile('org.springframework.boot:spring-boot-starter-data-redis')
-	compile("org.springframework.boot:spring-boot-starter-data-mongodb")
+	compile("org.springframework.boot:spring-boot-starter-data-mongodb:2.0.0.RELEASE")
 	compile('org.neo4j:neo4j-ogm-bolt-driver:3.0.0')
 	compile('org.codehaus.groovy:groovy')
 	compileOnly('org.projectlombok:lombok')
